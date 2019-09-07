@@ -5,7 +5,7 @@ use strict;
 # to correct region of 3x_1 + 4x_2 - 10 = 0 with a learning rate of 0.1
 # Was very stuck with output 11 when the counter should've started at 1.
 # 
-# The answer is 0.
+# The answer is 10.
 
 my $x1 = 3;
 my $x2 = 4;
